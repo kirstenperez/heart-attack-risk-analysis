@@ -1,4 +1,4 @@
-# Heart Attack Risk Prediction Analysis
+# Heart Attack Risk Analysis
 
 ## Author
 - Kirsten Perez (@kirstenperez)
